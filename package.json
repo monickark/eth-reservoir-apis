@@ -1,0 +1,22 @@
+{
+  "name": "nft-reservoir",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@radix-ui/react-select": "^1.1.2",
+    "@reservoir0x/reservoir-kit-ui": "^0.8.3",
+    "api": "^5.0.5",
+    "ethers": "^5.7.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "wagmi": "^0.10.4",
+    "yarn": "^1.22.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
